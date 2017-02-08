@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ace\AndroidStudioProjects\StatAce\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\ace\AndroidStudioProjects\StatAce\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_d54353166eb429e7b385eeeef4fddcbbbeb0d20b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ace\AndroidStudioProjects\StatAce\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\ace\AndroidStudioProjects\StatAce\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_e5fb8c88b0d578c6dab5ba88ce5cf5d2fa30cce9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ace\AndroidStudioProjects\StatAce\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\ace\AndroidStudioProjects\StatAce\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_ec3efed89a42c06ff0f37cfb23c71195bb5aeefe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ace\AndroidStudioProjects\StatAce\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\ace\AndroidStudioProjects\StatAce\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_67f5d80384eac68011681615ce0154f78fd53813\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ace\AndroidStudioProjects\StatAce\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\ace\AndroidStudioProjects\StatAce\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_decb051c8429ca470a034a6431374ccc99bf59d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ace\AndroidStudioProjects\StatAce\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\ace\AndroidStudioProjects\StatAce\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_7af055cd9aa05cc8eef0b679c12843939fbb5348\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ace\AndroidStudioProjects\StatAce\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\ace\AndroidStudioProjects\StatAce\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_377f168989149c47e7fc88274aefc7171c93085a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ace\AndroidStudioProjects\StatAce\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\ace\AndroidStudioProjects\StatAce\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_19c4a494c38a13178d0762ee5d17c4490663cf0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ace\AndroidStudioProjects\StatAce\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c23c43ca032523707cf07740b8d925cec173d4be">
+        <dex dex="C:\Users\ace\AndroidStudioProjects\StatAce\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6ffcd46f695fc9e7a1f94dc277a424613207bc48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ace\AndroidStudioProjects\StatAce\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94419a5d966f030efd7d0b7cccd7a47e1a820867">
+        <dex dex="C:\Users\ace\AndroidStudioProjects\StatAce\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_acb5f2bfa8b4e9b36503e7de3038767fe4198894\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ace\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\ace\AndroidStudioProjects\StatAce\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_c4287d4edb3152cb3c21412b045b2d74e8a39a55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ace\AndroidStudioProjects\StatAce\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\ace\AndroidStudioProjects\StatAce\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_48db0ae4beffd69cc99789b6a319c0837a5ef8db\classes.dex" />
+    </item>
+
+</items>

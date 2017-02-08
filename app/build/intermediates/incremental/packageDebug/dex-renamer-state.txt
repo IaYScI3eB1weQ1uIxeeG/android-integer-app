@@ -1,0 +1,7 @@
+#Wed Feb 08 16:46:22 GMT 2017
+base.0=C\:\\Users\\ace\\AndroidStudioProjects\\StatAce\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6ffcd46f695fc9e7a1f94dc277a424613207bc48
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\ace\\AndroidStudioProjects\\StatAce\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_acb5f2bfa8b4e9b36503e7de3038767fe4198894\\classes.dex
+base.1=C\:\\Users\\ace\\AndroidStudioProjects\\StatAce\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_acb5f2bfa8b4e9b36503e7de3038767fe4198894
+file.0=C\:\\Users\\ace\\AndroidStudioProjects\\StatAce\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6ffcd46f695fc9e7a1f94dc277a424613207bc48\\classes.dex
